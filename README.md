@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hola 👋
 
-Soy un desarrollador de Fullstack que trabaja principalmente con PHP y JavaScript, pero me encanta compartir conocimiento sobre Go en YouTube.
+Soy un desarrollador Fullstack que trabaja principalmente con PHP y JavaScript, pero me encanta compartir conocimiento sobre Go en YouTube.
 
 Puedes encontrarme en:
 
