@@ -20,13 +20,13 @@ Puedes encontrarme en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Roberto_Morais-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@FuenRob)
 
+[![Twitch](https://img.shields.io/badge/Twitch-fuenrob-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/fuenrob)
+
 [![Twitter](https://img.shields.io/badge/Twitter-@FuenRob-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/FuenRob)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@fuenrob-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/fuenrob)
 
 [![TikTok](https://img.shields.io/badge/TikTok-@fuenrob-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@fuenrob)
-
-[![Twitch](https://img.shields.io/badge/Twitch-fuenrob-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/fuenrob)
 
 # Apoyo
 Puedes ayudarme con la creación de contenido haciendome una donación aquí:
